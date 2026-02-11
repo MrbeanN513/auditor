@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757177267409",
+    "project_id": "gstauditorpro",
+    "storage_bucket": "gstauditorpro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757177267409:android:e3acf53e0cc8468fd141f0",
+        "android_client_info": {
+          "package_name": "com.gst_auditor_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNPlbbYCO8jgOtN25QIbSA--pcGW92eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
